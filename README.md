@@ -16,7 +16,7 @@ Folder ini berisi proyek jaringan berskala enterprise, termasuk:
 - Dokumen pendukung seperti PDF konfigurasi
 - File Packet Tracer (`.pkt`) untuk simulasi
 
-### 2. `Kumpulan Lab Permodul`
+### 2. `Lab Exercises`
 Folder ini berisi latihan dan eksperimen per modul, termasuk:
 - Latihan VLAN, InterVLAN, DHCP, routing, dan protokol jaringan lainnya
 - Simulasi topologi jaringan kecil menggunakan Packet Tracer
