@@ -53,3 +53,11 @@ Setiap cabang memiliki **4 divisi**: Research and Development, Finance, Telco, d
 ## Topologi Jaringan
 <img width="2409" height="1599" alt="image" src="https://github.com/user-attachments/assets/17df659d-2c61-4539-a31b-077291c79cde" />
 
+---
+
+## File Proyek
+Proyek ini dilengkapi dengan dua file pendukung:  
+- **Topologi Packet Tracer (.pkt):**  
+  File ini berisi topologi jaringan lengkap yang dapat dibuka dan dijalankan menggunakan **Cisco Packet Tracer**.
+- **Konfigurasi Lengkap (.pdf):**  
+  File PDF ini memuat semua konfigurasi perangkat jaringan yang dilakukan, termasuk pengaturan VLAN, InterVLAN routing, DHCP, STP, dan EtherChannel.
