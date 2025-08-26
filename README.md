@@ -9,14 +9,14 @@ Repositori ini berisi kumpulan proyek jaringan yang saya kerjakan selama studi, 
 
 ## Struktur Folder
 
-### 1. `Enterprise Network Design`
+### 1. [`Enterprise Network Design`](https://github.com/rizkyAlya/Networking-Projects/tree/main/Enterprise%20Network%20Design)
 Folder ini berisi proyek jaringan berskala enterprise, termasuk:
 - Topologi lengkap jaringan perusahaan
 - Konfigurasi perangkat (switch, router, server)
 - Dokumen pendukung seperti PDF konfigurasi
 - File Packet Tracer (`.pkt`) untuk simulasi
 
-### 2. `Lab Exercises`
+### 2. [`Lab Exercises`](https://github.com/rizkyAlya/Networking-Projects/tree/main/Lab%20Exercises)
 Folder ini berisi latihan dan eksperimen per modul, termasuk:
 - Latihan VLAN, InterVLAN, DHCP, routing, dan protokol jaringan lainnya
 - Simulasi topologi jaringan kecil menggunakan Packet Tracer
